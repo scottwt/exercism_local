@@ -1,4 +1,3 @@
-# exercism_local
+# exercism
 
-#Created remote repo & readme
-#The Ruby directory is a repoistory for the Exercism problems
+#This is a repository for the problems of Exercism in Ruby
